@@ -1,4 +1,3 @@
-/*
 
 "use client";
 
@@ -135,5 +134,3 @@ export default function AnimatedContent({
     </div>
   );
 }
-
-*/
